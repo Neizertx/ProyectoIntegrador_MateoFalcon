@@ -25,9 +25,12 @@
               "src/assets"
             ],
             "styles": [
+              "proyecto_mateo_falcon/node_modules/bootstrap/dist/css/bootstrap.css",
               "src/styles.css"
             ],
-            "scripts": []
+            "scripts": [
+              "proyecto_mateo_falcon/node_modules/bootstrap/dist/js/bootstrap.js"
+            ]
           },
           "configurations": {
             "production": {
@@ -94,5 +97,8 @@
         }
       }
     }
+  },
+  "cli": {
+    "analytics": "b4c93e69-4ce4-424a-836c-54d593b10eeb"
   }
 }
